@@ -150,9 +150,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <Text Include="ReadMe.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="src\Camera_and_ImputDevices.h" />
     <ClInclude Include="src\Saver.h" />
     <ClInclude Include="src\Mouse.h" />

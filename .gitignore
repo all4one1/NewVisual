@@ -369,8 +369,9 @@ FodyWeavers.xsd
 *.png
 *.jpg
 *.jpeg
+*.txt
 pictures/*
 
 
 !camerastate.dat
-/all.txt
+
