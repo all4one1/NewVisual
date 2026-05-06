@@ -1,0 +1,1 @@
+ffmpeg -y -framerate 5 -i "pictures/%%05d.png" -c:v libx264 -pix_fmt yuv420p output.mp4
